@@ -1,0 +1,4 @@
+flask
+pybraille
+pytesseract
+aiortc
